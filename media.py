@@ -1,7 +1,7 @@
 import cv2 
 import mediapipe as mp
 import pyautogui
-import time
+import time 
 
 def count_fingers(lst):
     cnt = 0
